@@ -1,7 +1,5 @@
 package com.example.jim.test3;
 
-import java.util.Date;
-
 public class Steps {
     private int _id;
     private long _recordTime;
