@@ -1,0 +1,26 @@
+
+skeleton.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coalEye
+  rotate: false
+  xy: 93, 87
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+coalFace
+  rotate: false
+  xy: 2, 25
+  size: 89, 75
+  orig: 89, 75
+  offset: 0, 0
+  index: -1
+coalHair
+  rotate: false
+  xy: 2, 2
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
